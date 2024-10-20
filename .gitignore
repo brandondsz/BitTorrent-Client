@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BitTorrent-Client/bin/Debug/net8.0
+/BitTorrent-Client/.vs/BitTorrent-Client
+/BitTorrent-Client/obj
