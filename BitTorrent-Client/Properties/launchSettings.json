@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BitTorrent-Client": {
+      "commandName": "Project",
+      "commandLineArgs": "decode i123e"
+    }
+  }
+}
